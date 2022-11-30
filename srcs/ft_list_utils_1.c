@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "header.h"
+#include "ft_printf.h"
 
 t_format		*ft_newformatnode(unsigned long a, unsigned long b, char c)
 {
